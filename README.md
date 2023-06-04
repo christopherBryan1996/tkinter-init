@@ -1,0 +1,1 @@
+Se esta ocupando python 3.10
